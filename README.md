@@ -24,5 +24,3 @@ https://babyoutrhy.github.io
 ## 🎭 Latest repository
 ⭐ Check out my new project helped by AI an assistant 👉
 https://github.com/babyoutrhy/Fun-Repositories
-
-> "First, solve the problem. Then, write the code." - John Johnson
