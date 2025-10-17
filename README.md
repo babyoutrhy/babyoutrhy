@@ -20,7 +20,3 @@ https://babyoutrhy.github.io
 
 ## 📈 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babyoutrhy&layout=compact&theme=dark)](https://github.com/babyoutrhy)
-
-## 🎭 Latest repository
-⭐ Check out my new project helped by AI an assistant 👉
-https://github.com/babyoutrhy/Fun-Repositories
