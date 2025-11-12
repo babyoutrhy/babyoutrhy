@@ -19,4 +19,4 @@
 https://babyoutrhy.github.io
 
 ## 📈 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babyoutrhy&layout=compact&theme=dark)](https://github.com/babyoutrhy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babyoutrhy&layout=compact&theme=dracula)](https://github.com/babyoutrhy)
