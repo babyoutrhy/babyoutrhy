@@ -17,4 +17,4 @@
 https://babyoutrhy.github.io
 
 ## 📈 github stats
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babyoutrhy&layout=compact&theme=dracula)](https://github.com/babyoutrhy)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babyoutrhy&layout=compact&theme=tokyonight)](https://github.com/babyoutrhy)
