@@ -17,4 +17,4 @@
 https://babyoutrhy.github.io
 
 ## 📈 github stats
-![top languages](https://github-readme-stats.vercel.app/api?username=babyoutrhy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![top languages](https://github-readme-stats.vercel.app/api?username=babyoutrhy&show_icons=true&theme=tokyonight)
