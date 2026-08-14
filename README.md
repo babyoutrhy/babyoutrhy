@@ -12,8 +12,7 @@
 ## 🌐 where to find me
 [![website](https://img.shields.io/badge/my_site-FF4088?style=for-the-badge&logo=github&logoColor=white)](https://unsophisticated.lol)
 
-✨ socials & more:
--https://babyoutrhy.github.io-
+✨ socials:
 https://unsophisticated.lol
 
 ## 📈 github stats
