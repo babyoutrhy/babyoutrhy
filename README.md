@@ -1,20 +1,20 @@
 # 👋 hey, i'm rhy
 
 ## 🛠️ tech stuff i use
-### comfortable with
+### i'm good at
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### currently messing with
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🌐 where to find me
-[![website](https://img.shields.io/badge/my_site-FF4088?style=for-the-badge&logo=github&logoColor=white)](https://babyoutrhy.github.io)
+[![website](https://img.shields.io/badge/my_site-FF4088?style=for-the-badge&logo=github&logoColor=white)](https://unsophisticated.lol)
 
-✨ socials & more:  
-https://babyoutrhy.github.io
+✨ socials & more:
+-https://babyoutrhy.github.io-
+https://unsophisticated.lol
 
 ## 📈 github stats
-![top languages](https://github-readme-stats.vercel.app/api?username=babyoutrhy&show_icons=true&theme=tokyonight)
+![top languages](https://github-stats-extended.vercel.app/api?username=babyoutrhy&show_icons=true&theme=tokyonight)
